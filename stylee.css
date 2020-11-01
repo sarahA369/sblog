@@ -1,0 +1,58 @@
+div{
+    
+    color: black;
+    height: 150px;
+    width: 1450px;
+    padding: 10px 20px;
+    border:rgb(153, 78, 116) solid;
+    background-image: url('img/1.jpg');
+    background-repeat: repeat;
+    direction: rtl;
+    text-align: center;
+    text-shadow: 5px 5px 6px fuchsia;
+    margin:auto;
+    font-family: 'Vampiro One', cursive;
+    font-size: x-large;
+}
+
+.div3{
+    width:140px;
+    height: 100px;
+    font-size: smaller;
+    font-family: 'Times New Roman', Times, serif;
+    border: 10 px white;
+    background:rgb(153, 78, 116) ;
+    margin: 0px 0px;
+}
+h2{
+    text-shadow: 5px 5px 6px fuchsia;
+    color: rgba(114, 42, 82, 0.822) ;
+    text-align: center;
+  
+}
+div.intro{
+   
+    direction: ltr;
+    color: rgb(16, 8, 22);
+ background: rgb(209, 238, 223);
+ width: 350px;
+ height: 150px;
+ border: 30px rgb(236, 175, 206) solid;
+}
+div.info{
+    
+    text-align: right;
+    direction: rtl;
+    width: 250px;
+    height: 200px;
+    background:  rgb(236, 175, 206);
+    text-align: right;
+   padding: 20px;
+    margin:30px auto ;
+
+}
+body{
+ 
+    background-image: url("img/2.png");
+    background-size: 100px;
+}
